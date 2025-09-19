@@ -45,7 +45,7 @@ class car(models.Model):
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+<img width="1917" height="1199" alt="Screenshot 2025-09-19 092644" src="https://github.com/user-attachments/assets/935e8a5a-1111-40b7-bccf-51ac9058d2e5" />
 
 
 ## RESULT
